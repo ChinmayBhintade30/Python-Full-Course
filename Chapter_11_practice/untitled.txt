@@ -1,0 +1,21 @@
+new salary = old salary * (1+ increment /100)
+
+new salary = old salary + old salary * increment/100
+
+old salary = 10000
+new salary = 12000
+increment = 20 %
+
+increment = ((new salary / old salary) - 1) * 100
+
+increment = ((12000 / 10000) - 1) * 100
+
+increment = (12/10 - 1) * 100
+
+increment = 2/10 * 100
+increment = 20 is the increment (in percentage)
+
+
+
+(a+bj)×(c+dj)=(ac−bd)+(ad+bc)j
+this is the formula for multiplication for complex numbers
