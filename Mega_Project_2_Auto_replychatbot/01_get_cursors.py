@@ -6,11 +6,11 @@ import pyautogui
 while True:
     a = pyautogui.position()
     print(a)
-    #1102 1179 --> chrome tab coordinates
+    #1350 , 1165 are the cordinates of whatsapp tab in my desktop for now --> 
 
-    # 664, 175 coordinates of left corner
-    #1869 , 1037
-    # #1146 1121 right corner coordinates
+    # 1817 , 493 coordinates of left corner
+    
+    # 1754 , 1001 right corner coordinates
 
 #we can run this code again and again to generate the coordinates of the python file so that 
 #there remain the accuracy fot the dragginng of the mouse cursor 
