@@ -9,7 +9,7 @@ import google.generativeai as genai
 genai.configure(api_key="AIzaSyAOvIfeYMB3V4aD-lDH-u4k_JA97H_cZwY")  # <-- replace with new key
 
 # Use correct model name
-model = genai.GenerativeModel("models/gemini-1.5-flash")
+model = genai.GenerativeModel("models/gemini-1.5-flash")  
 
 # ---------------------------------------------------------
 # Step 1: Click on the icon
